@@ -2,4 +2,7 @@
     <string name="app_name">SecondNativeproject</string>
     <string name="egyption_meme">Egyption Meme</string>
     <string name="delivery">Meme app</string>
+    <string name="currency">Currency Converter </string>
+    <string name="to">To</string>
+    <string name="from">From</string>
 </resources>
